@@ -2,6 +2,10 @@
 
 A **Unity sandbox simulation** that allows users to create a solar system or an asteroid field, simulate gravitational motion (Newton + Verlet integration), and visualize gravitational fields in 2D or 3D.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DAVID-creator-dev/Space-simulation/refs/heads/main/docs/images/demo.gif" alt="Demo">
+</p>
+
 ---
 
 ## Overview
